@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.msthn</groupId>
-	<artifactId>aenemia</artifactId>
+	<artifactId>aenamea</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>aenemia</name>
-	<description>SpringPersistence (CJjHdchLY9Y)</description>
+	<name>aenamea</name>
+	<description>SpringJDBC (CJjHdchLY9Y)</description>
 	<properties>
 		<java.version>16</java.version>
 	</properties>
